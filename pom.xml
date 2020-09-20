@@ -29,6 +29,13 @@
         </developer>
     </developers>
 
+    <scm>
+        <url>https://github.com/filippoderosa84/guava-memcached</url>
+        <connection>scm:git:https://github.com/filippoderosa84/guava-memcached.git</connection>
+        <developerConnection>scm:git:https://github.com/filippoderosa84/guava-memcached.git</developerConnection>
+        <tag>guava-memcached-1.0.0</tag>
+    </scm>
+
     <properties>
         <maven.compiler.source>1.9</maven.compiler.source>
         <maven.compiler.target>1.9</maven.compiler.target>
